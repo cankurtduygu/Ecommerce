@@ -1,1 +1,1 @@
-Elektronik E-Ticaret Sitesi
+Veritabanı tasarımı, ürünler, kullanıcılar, siparişler ve stok bilgilerini etkin şekilde yönetmek üzere yapılandırılmıştır. İlişkisel veya NoSQL veritabanı kullanılarak veri bütünlüğü ve performans sağlanmaktadır. İndeksleme ve sorgu optimizasyonu ile hızlı erişim mümkün kılınmıştır.
