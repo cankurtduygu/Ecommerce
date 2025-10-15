@@ -1,4 +1,13 @@
+Bu bölümde, elektronik ürünler satan e-ticaret sitesinin sistem mimarisi özetlenmektedir. Site, React ön yüz ve>
+<sipleri ile kullanıcı deneyimi optimize edilmiştir.
+
+
+
+
+
+
 Veritabanı tasarımı, ürünler, kullanıcılar, siparişler ve stok bilgilerini etkin şekilde yönetmek üzere yapılandırılmıştır. İlişkisel veya NoSQL veritabanı kullanılarak veri bütünlüğü ve performans sağlanmaktadır. İndeksleme ve sorgu optimizasyonu ile hızlı erişim mümkün kılınmıştır.
 
 Sistem Mimarisi
 Bu bölümde, elektronik ürünler satan e-ticaret sitesinin sistem mimarisi özetlenmektedir. Site, React ön yüz ve Node.js arka uç kullanılarak geliştirilmiştir. API tabanlı iletişim ile frontend ve backend arasında veri akışı sağlanmakta, ölçeklenebilir ve esnek bir yapı sunulmaktadır.
+Kullanıcı arayüzü, React frameworkü ile geliştirilmiş olup mobil uyumlu ve dinamik bir deneyim sunar. Ürün listeleme, detay görüntüleme, alışveriş sepeti ve ödeme işlemleri kolayca yönetilebilir. UI ve UX prensipleri ile kullanıcı deneyimi optimize edilmiştir.
