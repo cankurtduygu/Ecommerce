@@ -1,0 +1,5 @@
+Kullanıcı arayüzü, React frameworkü ile geliştirilmiş olup mobil uyumlu ve dinamik bir deneyim sunar. 
+Ürün listeleme, detay görüntüleme, alışveriş sepeti ve ödeme işlemleri kolayca yönetilebilir.
+ UI ve UX prensipleri ile kullanıcı deneyimi optimize edilmiştir
+
+
